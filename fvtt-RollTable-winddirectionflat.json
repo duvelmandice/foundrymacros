@@ -1,0 +1,116 @@
+{
+  "name": "windDirectionFlat",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "BDmxmFwL0twkTEVF",
+      "text": "0",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "XsXtOBXLjzUY3NLB",
+      "text": "45",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "knwJOfGs2xHEj5r1",
+      "text": "135",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "xqbeeHOL0WPM5dlD",
+      "text": "180",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "6YvJgWOD0ZiBI6oF",
+      "text": "225",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    },
+    {
+      "type": 0,
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "documentCollection": "",
+      "_id": "KhlbkBse6djK4n89",
+      "text": "315",
+      "img": "icons/svg/d20-black.svg",
+      "documentId": null,
+      "flags": {}
+    }
+  ],
+  "formula": "d6",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "pirate-borg-hexcrawl",
+      "system": "pirateborg",
+      "coreVersion": "10.291",
+      "systemVersion": "v0.6.3"
+    }
+  },
+  "_stats": {
+    "systemId": "pirateborg",
+    "systemVersion": "v0.6.3",
+    "coreVersion": "10.291",
+    "createdTime": 1678046069329,
+    "modifiedTime": 1678046670925,
+    "lastModifiedBy": "XNJMbqWa5LsCCWyV"
+  }
+}
